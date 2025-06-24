@@ -6,7 +6,7 @@ A modern, student-centric dashboard UI designed in Figma. StudySphere provides a
 
 ## 🖼️ Project Preview
 
-![StudySphere Preview](./assets/studysphere.png)
+![StudySphere Preview](./assets/StudySphere.png)
 
 ---
 
